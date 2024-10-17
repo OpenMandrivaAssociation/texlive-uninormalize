@@ -3,7 +3,7 @@ Version:	57257
 Release:	2
 Summary:	Unicode normalization support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uninormalize
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uninormalize
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uninormalize.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uninormalize.doc.r%{version}.tar.xz
